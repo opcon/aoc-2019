@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/home/patrick/anaconda3/envs/py3-dev/bin/python",
+    "python.dataScience.jupyterServerURI": "http://localhost:9058/?token=a6d722c90c45b8a0493b37b02146786668de0ff5e4657b3b"
+}
